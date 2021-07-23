@@ -4,15 +4,15 @@ Anne Pro 2 light effects based in LOONA
 
 Colors Used:
 
-Heejin - #ff0066
-Hyunjin - #ffcc00
-Haseul - #20ff20
-Yeojin - #ff6600
-Vivi - #ff8060
-Kim Lip - #FF0000
-Jinsoul - #0000ff
-Choerry - #6600ff
-Yves - #ff0033
-Chuu - #ff8c40
-Gowon - #40ff66
-Olivia Hye - #ffffff
+Heejin - #ff0066 <br>
+Hyunjin - #ffcc00 <br>
+Haseul - #20ff20 <br>
+Yeojin - #ff6600 <br>
+Vivi - #ff8060 <br>
+Kim Lip - #FF0000 <br>
+Jinsoul - #0000ff <br>
+Choerry - #6600ff <br>
+Yves - #ff0033 <br>
+Chuu - #ff8c40 <br>
+Gowon - #40ff66 <br>
+Olivia Hye - #ffffff <br>
